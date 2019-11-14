@@ -5,6 +5,8 @@ CSS Grid Layout is the most powerful layout system available in CSS. It is a 2-d
 `grid-template-column/row or areas` - you can use different grid templates to make your webpage more dynamic and easier to adjust.
 
 `grid-template-column: repeat(auto-fit, minmax(240px, 1fr))` - this will remove the whitespace on the the side of the items when you adjust the screen size of the webpage.
+
+`grid-gap: 1rem` - this will put even gaps by your content.
 ---
 ### Objects
 Loosely speaking, objects in JavaScript may be defined as an unordered collection of related data, of primitive or reference types, in the form of “key: value” pairs. These keys can be variables or functions and are called properties and methods, respectively, in the context of an object.
